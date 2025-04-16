@@ -1,5 +1,4 @@
 # IEEE Journal Paper Review Comments Response Template (LaTeX)
-
 This repository provides a LaTeX template designed to facilitate the preparation of response letters to reviewers' comments for IEEE journal submissions. It helps authors format their responses and revisions in a structured, readable, and professional manner, enhancing clarity and streamlining the review process.
 
 ## Features
