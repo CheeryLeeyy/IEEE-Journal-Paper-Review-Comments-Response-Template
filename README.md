@@ -9,6 +9,8 @@ This repository provides a LaTeX template designed to facilitate the preparation
 - Customizable structure for different journals and formatting requirements
 
 
+## Template Preview
+Please click [here](https://github.com/CheeryLeeyy/IEEE-Journal-Paper-Review-Comments-Response-Template/blob/main/review_response.pdf).
 
 
 
